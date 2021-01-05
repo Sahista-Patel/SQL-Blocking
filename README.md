@@ -2,8 +2,6 @@
 
 This script will check the blocking. If it is then qualifies for the alert. It sends E-mail by combining all these alerts (example mentioned in o/p).
 
-Alert serial number, Server Name, Database Name,  %Free File Space - Free log file space. It will send an email, if scheduled then it is monitoring as well as log file size auto handling technique.
-
 # Prerequisites
 
 SQL Server
