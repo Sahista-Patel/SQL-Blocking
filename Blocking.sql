@@ -13,7 +13,7 @@
 --     This will execute the script and gives HTML content in email with the details in body.
 -- .NOTES
 --     PUBLIC
--- .AUTHOR
+-- .AUTHOR & OWNER
 --     Harsh Parecha
 --     Sahista Patel
 -- #>
